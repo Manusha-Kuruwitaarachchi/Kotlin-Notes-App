@@ -44,8 +44,8 @@
             android:layout_width="24dp"
             android:layout_height="24dp"
             android:layout_alignParentEnd="true"
-            android:layout_marginEnd="30dp"
-            app2:srcCompat="@drawable/baseline_edit_note_24" />
+            app2:srcCompat="@drawable/baseline_delete_24" />
+
     </RelativeLayout>
 
     <TextView
@@ -57,6 +57,8 @@
             android:maxLines="3"
             android:layout_marginTop="4dp"
         />
+
+
 
 
     </LinearLayout>
